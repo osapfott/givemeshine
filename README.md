@@ -4,7 +4,7 @@
 ## Установка
 ### 1. Клонируйте репозиторий 
 ```bash
-git clone https://github.com/whyrinki/givemeshine
+git clone https://github.com/osapfott/givemeshine
 ```
 ### 2. Перейдите в папку `givemeshine` и установите зависимости 
 ```bash
